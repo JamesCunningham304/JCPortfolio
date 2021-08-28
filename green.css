@@ -1,0 +1,20 @@
+:root{
+    --mainColor:#606B56;
+    --secondaryColor:#2a3a2d;
+
+    --borderColor:#161914;
+
+    --mainText:#fff;
+    --secondaryText:#eeeeee;
+
+    --themeDotBorder:#fff;
+
+    --previewBg:rbg(81,90,72,0.8);
+    --previewShadow:#2a2f25;
+
+    --buttonColor:#669966;
+}
+
+a{
+    color: black;
+}
