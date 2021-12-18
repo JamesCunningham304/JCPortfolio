@@ -215,6 +215,7 @@ padding: 10px;
 
 .right-column{
     grid-area: right-column;
+    display: flex;
     display: grid;
     align-content: center;
 
