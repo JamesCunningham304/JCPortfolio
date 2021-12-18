@@ -31,3 +31,6 @@ function setTheme(mode){
     }
     localStorage.setItem('theme', mode)
 }
+
+
+const nav_contact = document.getElementById("nav-contact")
